@@ -1,10 +1,10 @@
-# AsteroidApp
-The alternative browser with Flash Player for Windows 7/10 (x32/x64) and MacOS.
+# Vabbo App (escritorio)
+App oficial para ordenadores de Vabbo. Permite entrar al cliente flash.
 
 ## How to install?
-1. Download NodeJS: https://nodejs.org/
+1. Descargar NODE: https://nodejs.org/
  
-2. Open `Command Prompt` and make sure you are in the same location as the AsteroidApp.
+2. Abre `Command Prompt` and make sure you are in the same location as the AsteroidApp.
 
 3. Install the dependencies by execute the command: `npm install`
 
